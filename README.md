@@ -1,13 +1,5 @@
-<div style="position:relative;width:100%;height:200px;" align="center">
-    <img src="https://cdn.tech.eu/uploads/2023/01/merger-581.gif" style="display:flex;
-    justify-content:center;
-    position:absolute;">
-        <div style="position:relative;top:25%;">
-            <p style="font-size:30px;font-weight:bold;color:white;">NOMEKM</p>
-            <p style="font-size:15px;font-weight:lighter;color:white;">It took me hour to achieve this :<</p>
-        </div>
-    </img>
-</div>
+<img src="https://cdn.tech.eu/uploads/2023/01/merger-581.gif" style="display:flex;justify-content:center;position:absolute;">
+</img>
 
 ***`A Frontend Dev, Junior Dev, Game Dev (Roblox)`***
 
@@ -15,7 +7,7 @@
 I'm NOMEKM, a developer from Thailand. I'm currently focus on learning new things, developing personal projects, and etc. Feel free to contact me
 
 [![YouTube](https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UCI76q7x_lZ4eePMPgJjgK7g "Sub to NOMEKM!!")
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://www.youtube.com/channel/UCI76q7x_lZ4eePMPgJjgK7g "Contact me")
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](# "Contact me")
 
 <h1 style="font-weight:bold">🖥️SKILLS🖥️</h1>
 <p>I have experienced a lot of languages, tools, and frameworks. Including...</p>
