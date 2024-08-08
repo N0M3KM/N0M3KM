@@ -1,7 +1,7 @@
 <img src="https://cdn.tech.eu/uploads/2023/01/merger-581.gif" style="display:flex;justify-content:center;position:absolute;">
 </img>
 
-***`A Frontend Dev, Junior Dev, Game Dev (Roblox)`***
+***`Graphic Designer, Fullstack Dev`***
 
 <h1 style="font-weight:bold">👋 ABOUT ME👋 </h1>
 I'm NOMEKM, a developer from Thailand. I'm currently focus on learning new things, developing personal projects, and etc. Feel free to contact me
